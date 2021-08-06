@@ -16,4 +16,4 @@ In this website, I talk a little about video games
 
 find the link to github website below
 
-https://stemqq.github.io/myFirst/
+https://stemqq.github.io/HW1/
